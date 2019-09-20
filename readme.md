@@ -1,9 +1,9 @@
-## C++ Class Practice
-Constructor
-Copy Constructor
-Assignment Operator Overloading (Copy)
-Stream Insertion Operator Overloading (<<)
-
+## C++ Class Practice  
+Constructor  
+Copy Constructor  
+Assignment Operator Overloading (Copy)  
+Stream Insertion Operator Overloading (<<)  
+  
 ## Compile  
 `g++ -std="c++17" main.cpp`  
 
